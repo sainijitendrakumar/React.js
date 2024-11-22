@@ -1,5 +1,31 @@
 # react.js
 
-<h3>Deploy Currency convertor project on Vercal:-https://react-js-99ei.vercel.app/</h3>
-<h3>Deploy Background Change project on Vercal:-https://react-js-livid.vercel.app/</h3>
-<h3>Deploy Context api with local storage project on Vercal:-https://react-js-7czk.vercel.app/</h3
+<table>
+<thead>
+<tr>
+<th align="center">#</th>
+<th align="center">Project</th>
+<th align="center">Live Demo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/react.js/tree/main/Currency%20convertor">Currency convertor</a></td>
+<td align="center"><a href="https://react-js-99ei.vercel.app/" rel="nofollow">Live Demo</a></td>
+</tr>
+<tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/react.js/tree/main/background%20change%20with%20context">Dark Mode with Context api</a></td>
+<td align="center"><a href="https://react-js-livid.vercel.app/" rel="nofollow">Live Demo</a></td>
+</tr>
+<tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/react.js/tree/main/context_api_with_local_storage">Todo List App</a></td>
+<td align="center"><a href="https://react-js-7czk.vercel.app/" rel="nofollow">Live Demo</a></td>
+</tr>
+<tr>
+
+</tr>
+</tbody>
+</table>
