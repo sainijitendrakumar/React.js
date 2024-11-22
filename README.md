@@ -1,4 +1,4 @@
-# react.js
+# React.js projects with live Demo
 
 <table>
 <thead>
