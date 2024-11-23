@@ -24,6 +24,10 @@
 <td align="center"><a href="https://github.com/sainijitendrakumar/react.js/tree/main/context_api_with_local_storage">Todo List App</a></td>
 <td align="center"><a href="https://react-js-7czk.vercel.app/" rel="nofollow">Live Demo</a></td>
 </tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/React.js-Projects/tree/main/password_generator">Password Generator</a></td>
+<td align="center"><a href="https://react-js-projects-gold.vercel.app/" rel="nofollow">Live Demo</a></td>
+</tr>
 
 </tbody>
 </table>
